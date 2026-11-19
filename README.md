@@ -28,5 +28,3 @@ Collection of Capture The Flag writeups from DreamHack and TryHackMe.
 | [athena](./tryhackme/athena) | |
 
 ---
-
-*Originally published as individual repositories. Consolidated for portfolio / CV.*
