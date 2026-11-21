@@ -1,5 +1,3 @@
-Here's the English translation, formatted cleanly:
-
 ---
 
 # Prioritize
