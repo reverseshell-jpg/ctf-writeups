@@ -1,5 +1,3 @@
----
-
 # Prioritize
 Exploit chain: boolean-based blind SQLi on ORDER BY
 
