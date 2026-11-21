@@ -26,5 +26,6 @@ Collection of Capture The Flag writeups from DreamHack and TryHackMe.
 | [Ollie](./tryhackme/Ollie) | |
 | [olympus](./tryhackme/olympus) | |
 | [athena](./tryhackme/athena) | |
+| [Prioritise](./tryhackme/Prioritise) | |
 
 ---
